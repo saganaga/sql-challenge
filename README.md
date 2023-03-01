@@ -1,15 +1,15 @@
 # sql-challenge
 The goal of this challenge is to design tables to hold the data from CSV files, import the CSV files into a SQL database, and then write queries to answer specific questions. The items to do are listed below.
 ## Data Modeling
-- [ ] Entity Relationship Diagram is included or table schemas provided for all tables
+- [x] Entity Relationship Diagram is included
 ## Data Engineering
-- [ ] All required columns are defined for each table
-- [ ] Columns are set to the correct data type
-- [ ] Primary Keys set for each table
-- [ ] Correctly references related tables
-- [ ] Tables are correctly related using Foreign Keys
-- [ ] Correctly uses NOT NULL condition on necessary columns
-- [ ] Accurately defines value length for columns
+- [x] All required columns are defined for each table
+- [x] Columns are set to the correct data type
+- [x] Primary Keys are set for each table
+- [x] Correctly references related tables
+- [x] Tables are correctly related using Foreign Keys
+- [x] Correctly uses NOT NULL condition on necessary columns
+- [x] Accurately defines value length for columns
 ## Data Analysis
 - [ ] List the employee number, last name, first name, sex, and salary of each employee
 - [ ] List the first name, last name, and hire date for the employees who were hired in 1986
