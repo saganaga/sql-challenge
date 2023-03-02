@@ -22,3 +22,5 @@ The goal of this challenge is to design tables to hold the data from CSV files, 
 ## Results
 Entity Relationship Diagram
 ![Entity Relationship Diagram](EmployeesDiagram.png)
+Table schemata is found in employeesDB.sql
+Queries are found in Queries.sql
